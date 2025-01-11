@@ -1,0 +1,114 @@
+.body{
+    height: 5300px;
+    width: 1600px;
+    background-color: rgb(245, 245, 245);
+ 
+}
+
+
+.jost-normal {
+  font-family: "Jost", serif;
+  font-optical-sizing: auto;
+  
+  font-style: normal;
+}
+nav{
+    display: flex;
+     align-items: center;
+     justify-content: space-between;
+
+    
+}
+.btn-primary{
+   padding: 15px 30px 15px 30px;
+   border-radius: 8px;
+   opacity:100%;
+   font-size: 18px;
+   
+
+}
+.nav-title{
+    font-weight: bold;
+    font-size: 32px;
+    margin-left: 160px;
+    margin-top: 31px;
+   
+}
+.nav-title2{
+font-weight:600px;
+font-size:18px ;
+color: rgb(0, 106, 80);
+list-style: none;
+margin-right: 160px;
+
+
+
+}
+
+/* banner style */
+.banner{
+    display: flex;
+    justify-content: space-between;
+    background-color: #C6E4D6;
+    height: 560px;
+    width: 1280px;
+    border-radius: 24px;
+    margin-left: 160px;
+    margin-right: 160px;
+    margin-top: 20px;
+}
+
+.banner-content{
+    max-width: 622px;
+    padding-left: 59.99px;
+}
+.banner-first{
+    color:rgba(14, 14, 14, 0.5);
+    font-weight: 500px;
+    font-size: 24px;
+    text-align: left;
+    margin-top: 117px;
+    
+}
+.banner-second{
+    color:rgb(14, 14, 14);
+    font-weight: 700px;
+    font-size: 56px;
+    color:rgb(14, 14, 14);
+    text-align: left;
+    margin-top: 16px;
+    width: 630px;
+    height: 201px;
+    gap:16px
+    
+}
+.btn{
+   background-color: rgb(0, 106, 80);
+    font-weight: 600px;
+    font-size: 18px;
+    text-align: left;
+     line-height: 22px;
+   
+    border-radius:8px;
+    color:white;
+    width: 298px;
+    height: 56px;
+    padding-left:  34px;
+    
+   
+    padding-top:17px ;
+    padding-bottom: 17px;
+    padding-right:34px ;
+    margin-top:24px
+    margin-bottom:117px
+    
+}
+.btn:hover{
+    background-color:aqua;
+}
+.banner-profile-img{
+    width: 474.3px;
+    height: 400px;
+    padding: 80px 59.99px 80px 64px;
+   
+}
