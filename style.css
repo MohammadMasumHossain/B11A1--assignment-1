@@ -611,7 +611,7 @@ width: 122px;
     font-size:18px;
     color:rgb(255, 255, 255);
 }
-.subscribe-btn :hover{
+.subscribe-btn:hover{
     background-color: aqua;
 }
 
